@@ -55,6 +55,8 @@ Contoso Corporation is currently managing users in both AD DS and Azure AD as se
 
 21. Close all open windows.
 
+22. Log off **SEA-SVR1**
+
 #### Task 2: Verify synchronization in Azure AD
 
 1.  Switch to **SEA-CL1**.
