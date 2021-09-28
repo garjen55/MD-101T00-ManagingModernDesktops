@@ -137,7 +137,7 @@ Now that you have integrated Microsoft Store for Business with Intune, you need 
 
 4.  Close the **Settings** app and select the **Start** button.
 
-5.  In the app list, scroll down to **T** and select **Network Speed Test** and verify that the app opens.
+5.  In the app list, scroll down to **N** and select **Network Speed Test** and verify that the app opens.
 
 6.  Close all open windows.
 
