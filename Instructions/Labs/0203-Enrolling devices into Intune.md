@@ -120,7 +120,7 @@ _Note: These entries indicate that the device is enrolled in Intune._
 
 7. In the Azure Active Directory admin center, select **Azure Active Directory**.
 
-8. In the Contoso page, select **Devices**. Take note of SEA-WS3. Notice that the Join Type column displays **Azure AD joined** and the MDM column displays **Microsoft Intune**.
+8. In the Contoso page, select **Devices**, then select **All devices**. Take note of SEA-WS3. Notice that the Join Type column displays **Azure AD joined** and the MDM column displays **Microsoft Intune**.
 
 9. Close all open Windows.
 
