@@ -160,7 +160,7 @@ You need to deploy a new Windows 10 workstation named SEA-WS4. You decide to use
 
 3.  Select **New virtual network switch** and then in the details pane, select **External**. Select **Create Virtual Switch**.
 
-4.  In the **Virtual Switch Properties** page, under **Name**, enter **External network**, and then select **OK**.
+4.  In the **Virtual Switch Properties** page, under **Name**, enter **External network**, select **OK**, and then select **Yes**.
 
 5.  In Hyper-V Manager, select **SEA-SVR2** and then in the Actions pane, select **New** and then select **Virtual Machine**.
 
