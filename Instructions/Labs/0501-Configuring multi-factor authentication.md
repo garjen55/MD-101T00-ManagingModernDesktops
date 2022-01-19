@@ -183,17 +183,17 @@ To provide additional security for user sign on events, you need to configure an
 
 9.  On the **New Conditional access policy** page, in the **Name** box, enter **Contoso MFA Policy**.
 
-10.  Under **Assignments**, select **Users and groups**.
+10.  Under **Assignments**, select **0 users or workload identities selected**.
 
 11.  In the Users and groups pane, select the option next to **Select users and groups** and then select the check box next to **Users and groups**.
 
 12.  On the **Select** page, select **Alex Wilber** and then click **Select**. Note that typically you would specify a group, however for this exercise we will just test the setting on Alex Wilber.
 
-13.  Select **Cloud apps or actions** and then click **Select apps**.
+13.  Select **No cloud apps, actions, or authentication contexts selected** and then click **Select apps**.
 
 14.  On the **Select** page, select the check box next to **Office 365** and then click **Select**.
 
-15.  Under **Access controls**, select **Grant**.
+15.  Under **Access controls**, in the **Grant** section, select **0 controls selected**.
 
 16.  On the **Grant** page, select **Grant access**, select the check box next to **Require multi-factor authentication**, and then click **Select**.
 
