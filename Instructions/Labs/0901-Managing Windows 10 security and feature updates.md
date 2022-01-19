@@ -52,7 +52,7 @@ You have been asked to configure Update Rings in Intune to manage Windows update
 
 3.  In Microsoft Edge, type **https://endpoint.microsoft.com** in the address bar, and then press **Enter**.
 
-4.  In the navigation pane, select **Devices** and then select **Windows 10 update rings**.
+4.  In the navigation pane, select **Devices** and then select **Update rings for Windows 10 and later**.
 
 5.  On the **Devices | Windows 10 update rings** blade select **Create profile**.
 
@@ -63,8 +63,6 @@ You have been asked to configure Update Rings in Intune to manage Windows update
     -   Description: **Standard Windows updates configuration** 
 
 7.  In the **Update ring settings** blade, enter the following information, and then select **Next**:
-
-    -   Servicing channel: **Semi-Annual Channel**
 
     -   Feature update deferral period \(days\): **45**
 
@@ -124,13 +122,7 @@ You have been asked to configure Update Rings in Intune to manage Windows update
 
 9.  Select **Delivery Optimization**. Notice that **Allow downloads from other PCs** is not available.
 
-10.  In the navigation pane, select **Windows Insider Program**.
-
-11.  On the **Windows Insider Program** tab, notice the **Some settings are hidden or managed by your organization** banner.
-
-12.  Notice that the **Get started** button is unavailable. Close the **Settings** app.
-
-13.  Close all open apps and windows.
+10.  Close all open apps and windows.
 
 _Note: These labs are configured to prevent Windows Updates from being applied to avoid delays and unintentional impact during the labs._
 
