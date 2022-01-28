@@ -87,11 +87,11 @@ dsregcmd /status
 
 6.  In Microsoft Edge, in the Azure Active Directory admin center, select **Azure Active Directory**.
 
-7.  In the **Contoso** page, under **Manage**, select **Devices**. In the Devices pane, notice that SEA-WS1 is listed. 
+7.  In the **Contoso** page, under **Manage**, select **Devices**, then select **All devices**. In the Devices pane, notice that SEA-WS1 is listed. 
 
 8.  Verify that the **Join Type** is listed as **Azure AD joined** and that the owner is **Joni Sherman**. Also note that the MDM column shows None. This indicates that this device is not managed by Microsoft Intune.
 
-9.  In the Azure Active Directory admin center, select Azure Active Directory.
+9.  In the Azure Active Directory admin center, select **Azure Active Directory**.
 
 ### Task 4: Sign in to Windows 10 as an Azure AD User
 
@@ -239,7 +239,7 @@ dsregcmd /status
 
 6.  In the output under **Device State**, verify that **AzureAdJoined : YES** and **DomainJoined : YES** are displayed.
 
-    _Note: If the device is not yet joined to Azure AD wait for the Azure AD Connect sync to complete and reboot SEA-CL2 again._
+    _Note: If the device is not yet joined to Azure AD wait for the Azure AD Connect sync to complete and reboot SEA-CL2 again. It might take 5-10 minutes for the status to update._
 
 7.  Close all windows on SEA-CL2 and sign out.
 
