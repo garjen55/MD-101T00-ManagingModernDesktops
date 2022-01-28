@@ -127,7 +127,7 @@ dsregcmd /status
 
 4.  In the Azure Active Directory admin center, in the navigation pane, select **Azure Active Directory**.
 
-5.  In the **Contoso|Overview** page, under **Manage**, select **Devices**. 
+5.  In the **Contoso|Overview** page, under **Manage**, select **Devices**, and then select **All devices**. 
 
 6.  Verify that **SEA-CL1** is listed and that **Join Type** is **Hybrid Azure AD Join**.
 
