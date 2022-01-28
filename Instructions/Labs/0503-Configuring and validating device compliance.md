@@ -71,18 +71,18 @@ When a user uses a device that is marked as non-compliant, they should not be ab
 
 1.  On **SEA-CL1**, in the **Microsoft Endpoint Manager admin center** select **Devices**, then select **Conditional access**.
 
-2.  In the **Details** pane, select **New policy**.
+2.  In the **Details** pane, select **New policy**, and then select **Create new policy**.
 
-3.  On the **New** blade, in the **Name** text box, type **Conditional1** and then select **Users and groups**.
+3.  On the **New** blade, in the **Name** text box, type **Conditional1** and then select **0 users or workload identities selected**.
 
 4.  On the **Users and groups** blade, select the **All users** radio button.
 
-5.  On the **New** blade, select **Cloud apps or actions**, select the **Select apps** radio button, select **Office 365 Exchange Online**, and then click **Select**.
+5.  On the **New** blade, select **No cloud apps, actions, or authentication contexts selected**, select the **Select apps** radio button, select **Office 365 Exchange Online**, and then click **Select**.
 
-6.  On the **New** blade, select **Conditions**, select **Device platforms**, in the **Configure** section select **Yes**, select the **Select device platforms** radio button, select the **Windows** check box, and then select
+6.  On the **New** blade, in the **Conditions** section, select **0 conditions selected**. In the list of conditions, under **Device platforms**, select **Not configured**. In the **Configure** section select **Yes**, select the **Select device platforms** radio button, select the **Windows** check box, and then select
     **Done**.
 
-7.  On the **New** blade under **Access controls**, select **Grant**, select the **Require device to be marked as compliant** check box, and then select **Select**.
+7.  On the **New** blade under **Access controls**, in the **Grant** section, select **0 controls selected**. Select the **Require device to be marked as compliant** check box, and then select **Select**.
 
 8.  On the **New** blade, select **On** for the **Enable policy** option and then select **Create**.
 
