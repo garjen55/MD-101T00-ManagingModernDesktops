@@ -37,7 +37,7 @@ You use Microsoft Intune to manage desktops and apps for Contoso Corporation. Th
     - Appstore URL: https://www.microsoft.com/p/microsoft-remote-desktop/9wzdncrfj3ps
     - Category: Business
     - Show this as a featured app in the Company Portal: Yes
-11. Select **Next** and then select **Create**.
+11. Select **Next** twice and then select **Create**.
 
 12. The Microsoft Remote Desktop page opens. Take note of the Properties, Device install status, and User install status nodes.
 
@@ -73,7 +73,7 @@ You use Microsoft Intune to manage desktops and apps for Contoso Corporation. Th
 
 8.  On the **Which device are you using** dialog box select the option next to **SEA-WS3**, and then select **Select**. Notice that the message now changes to Apps will be installed onto: SEA-WS3.
 
-9.  At the top-left corner, select the navigation button and then select **Apps**. Take note of the Microsoft Remote Desktop app listed on the Apps page.
+9.  At the top-left corner, select the navigation button and then select **Apps**. Take note of the Microsoft Remote Desktop app listed on the Apps page. It might take a few minutes for the app to appear.
 
 10.  Select **Microsoft Remote Desktop**.
 
@@ -123,7 +123,7 @@ All the developers at Contoso require Microsoft 365 Apps. You've been asked to d
 
 6.  In the **Apps | Overview** blade, select **All Apps**. In the details pane, select **Add**.
 
-7.  In the **Select app type** blade, select **Windows 10** under **Microsoft 365 Apps**, and then select **Select**.
+7.  In the **Select app type** blade, select **Windows 10 and later** under **Microsoft 365 Apps**, and then select **Select**.
 
 8.  On the **Microsoft 365 Apps** blade, configure the following options and select **Next**:
 
