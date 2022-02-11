@@ -108,12 +108,12 @@ Enterprise State Roaming in Azure AD provides the ability for user settings and 
 
 3. On the **Sync your settings** page, verify that **Sync settings** is set to **On**. 
 
-4. Close the Settings window.
+4. On SEA-WS2 perform the following customizations:
 
-5. On SEA-WS2 perform the following customizations:
+   - Change the desktop background picture (right-click the desktop-> Personalize)
+   - Change the mouse pointer color (Settings-> Ease of Access-> Mouse Pointer)
 
-   - Pin Feedback Hub, Calculator, and Calendar to the Start screen.
-   - Pin Maps to the taskbar
+5. Close the Settings window.
 
 6. On **SEA-WS2**, on the taskbar, select **Microsoft Edge** and in the address bar, type **www.microsoft.com/learn**, and then press **Enter**. 
 
@@ -137,7 +137,7 @@ Enterprise State Roaming in Azure AD provides the ability for user settings and 
 
 16. On the **All set!** page, select **OK**.
 
-17. Verify the Feedback Hub, Calculator, and Calendar are pinned to the Start screen. Verify Maps is pinned to the taskbar.
+17. Verify the background and mouse pointer have changed.
 
 18. On the taskbar, select **Microsoft Edge**. 
     
