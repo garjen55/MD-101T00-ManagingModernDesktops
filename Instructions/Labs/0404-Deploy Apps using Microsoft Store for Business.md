@@ -81,6 +81,8 @@ You have decided to integrate Microsoft Store for Business with Intune. You need
 5.  In the **Contoso** store, review the apps that are available. You should see Fresh Paint and Network Speed Test as available options.
 6.  Close the Microsoft Store.
 
+**Note**: It can take up to 36 hours for the app to be available in the private store. Students do not need to wait to continue the lab.
+
 **Results**: After completing this exercise, you will have successfully integrated Microsoft Store for Business with Intune.
 
 ## Exercise 2: Deploy Microsoft Store for Business Apps using Intune
