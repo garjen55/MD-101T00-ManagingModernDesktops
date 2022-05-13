@@ -72,17 +72,15 @@ SEA-WS4 has been deployed by using Windows Autopilot. You need to test out anoth
 
 2. Select the Autopilot PC (Begins with the name DESKTOP).
 
-3. In the **Reset this PC** section, select **Reset PC**.
+3. In the menu bar, select the ellipse and then select **Autopilot Reset**.
 
-4. In the menu bar, select the ellipse and then select **Autopilot Reset**.
+4. At the message prompt, select **Yes**.
 
-5. At the message prompt, select **Yes**.
-
-6. Switch to SEA-SVR2 and maximize the SEA-WS4 window.
+5. Switch to SEA-SVR2 and maximize the SEA-WS4 window.
 
    _Note: SEA-WS4 should still be running from the previous lab._
 
-7. Restart **SEA-WS4**.
+6. Restart **SEA-WS4**.
 
    _Note: This process can take 30 minutes and will reboot several times during the process. Your instructor may continue with the next module while this task completes. Be sure to come back to complete Task 3 during your next lab session._ 
 
