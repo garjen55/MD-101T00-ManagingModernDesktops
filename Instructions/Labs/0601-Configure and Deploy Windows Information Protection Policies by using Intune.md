@@ -150,8 +150,6 @@ To following lab(s) must be completed before this lab:
 
     > Notice that the Enterprise context for Notepad.exe is Personal. Windows Information Protection will not allow you to copy and paste information between an app that is considered a workplace app and a personal app.
 
-18. Close all open windows and sign out of SEA-WS1.
-
 ### Task 6: Compare Enlightened and Unenlightened Apps (Alternate Task)
 
 1. Click **Start** and then select **Word**.
