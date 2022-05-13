@@ -145,7 +145,7 @@ Contoso uses Microsoft Endpoint Configuration Manager to manage desktop workstat
 
 8. Select **OK** to close the **Configuration Manager Properties**, and then close **Control Panel**. 
 
-9. In the notification area, select **New Software is Available** and then select **Open Software Center**. You might need to expand the notification area arrow to display the icon.
+9. In the notification area, select **New Software is Available** and then select **Open Software Center**. You might need to expand the notification area arrow to display the icon. If **New Software is Available** does not appear in the notification area, then search for **Software Center** and run it.
 
 10. In the **Software Center**, on the **Applications** page, notice the new application available named **Microsoft Power BI Desktop (x64)**. This application is now available to any device that is a member of the **Power BI App Deployment** collection created previously.
 
