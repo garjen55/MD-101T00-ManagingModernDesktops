@@ -106,7 +106,7 @@ Your organization uses Power BI for reporting. You need to set up Power BI on SE
 
 5. In the **OData feed for reporting service** field, copy the Odata URL to the clipboard.
 
-6. On SEA-CL1, on the desktop, double-click **Power BI Desktop**. Close all welcome pages.
+6. On SEA-CL1, on the desktop, double-click **Power BI Desktop**. Close all welcome pages - except at the prompt to update **Power BI Desktop**, follow the prompts to update **Power BI Desktop** to the latest version.
 
 7. After Power BI loads, with the **Home** tab selected in the ribbon, select the **Get Data** drop down arrow.
 
